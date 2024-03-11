@@ -1,0 +1,7 @@
+Libraries used:
+1. OpenCV
+2. Mediapipe
+3. Time
+4. Math
+5. Numpy
+6. pycaw
